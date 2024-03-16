@@ -10,22 +10,22 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = 6433468  # Get this value from my.telegram.org/apps
-    API_HASH = "7895dfd061f656367ccab30032"
+    API_ID = "23182647"  # Get this value from my.telegram.org/apps
+    API_HASH = "9fc6192389cf1fdfd10e87bea7de96c5"
 
     # Database configuration (PostgreSQL)
     DATABASE_URL = "postgres://fodrfyzd:fozO611cVktRfkPLfRb1S52saC6AsKAe@castor.db.elephantsql.com/fodrfyzd"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = -1001991974760
-    MESSAGE_DUMP = -1001991974760
+    EVENT_LOGS = "-1001991974760"
+    MESSAGE_DUMP = "-1001991974760"
 
     # MongoDB configuration
     MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
 
     # Support chat and support ID
     SUPPORT_CHAT = "fubuki_supports"
-    SUPPORT_ID = -1001991974760
+    SUPPORT_ID = "-1001991974760"
 
     # Database name
     DB_NAME = "MikoDB"
@@ -34,7 +34,7 @@ class Config(object):
     TOKEN = "7092177721:AAGeLPIOCx3JuaiqCUTGjqar5DY5b_IBsxI"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
-    OWNER_ID = 5483829443
+    OWNER_ID = "5483829443"
     # <=======================================================================================================>
 
     # <================================================ OPTIONAL ======================================================>
