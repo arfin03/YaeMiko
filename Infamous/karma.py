@@ -9,6 +9,11 @@ from telegram import InlineKeyboardButton
 from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
+
+FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
+
+PM_START_TEXT = "✨ *ɪ ᴀᴍ ᴍɪᴋᴏ, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
+
 START_IMG = [
     "https://telegra.ph/file/40b93b46642124605e678.jpg",
     "https://telegra.ph/file/01a2e0cd1b9d03808c546.jpg",
@@ -31,10 +36,6 @@ ALIVE_ANIMATION = [
     "https://telegra.ph//file/8d4d7d06efebe2f8becd0.mp4",
     "https://telegra.ph//file/6efdd8e28756bc2f6e53e.mp4",
 ]
-
-FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
-
-PM_START_TEXT = "✨ *ɪ ᴀᴍ ᴍɪᴋᴏ, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
 
 START_BTN = [
     [
