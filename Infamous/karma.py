@@ -43,7 +43,7 @@ ALIVE_ANIMATION = [
 START_BTN = [
     [
         InlineKeyboardButton(
-            text="⇦ ADD ME ⇨",
+            text="➕ ADD ME ➕",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
@@ -53,10 +53,10 @@ START_BTN = [
     [
         InlineKeyboardButton(text="DETAILS", callback_data="Miko_"),
         InlineKeyboardButton(text="AI", callback_data="ai_handler"),
-        InlineKeyboardButton(text="SOURCE", callback_data="git_source"),
+        
     ],
     [
-        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="OWNER", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
 
@@ -69,18 +69,18 @@ GROUP_START_BTN = [
     ],
     [
         InlineKeyboardButton(text="SUPPORT", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="OWNER", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
 
 ALIVE_BTN = [
     [
-        ib(text="UPDATES", url="https://t.me/Hydra_Updates"),
-        ib(text="SUPPORT", url="https://t.me/hydraXsupport"),
+        ib(text="UPDATES", url="https://t.me/fubuki_supports"),
+        ib(text="SUPPORT", url="https://t.me/rg_anime_group"),
     ],
     [
         ib(
-            text="⇦ ADD ME ⇨",
+            text="➕ ADD ME ➕",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
