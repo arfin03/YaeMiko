@@ -9,15 +9,7 @@ from telegram import InlineKeyboardButton
 from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
-FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
-
-PM_START_TEXT = """
-Hey hi {}, I'm {}!
-I am an Anime themed group management bot.
-Built by weebs for weebs, I specialize in managing anime eccentric communities!
-"""
-
-START_IMG = """
+START_IMG = [
     "https://telegra.ph/file/40b93b46642124605e678.jpg",
     "https://telegra.ph/file/01a2e0cd1b9d03808c546.jpg",
     "https://telegra.ph/file/ed4385c26dcf6de70543f.jpg",
@@ -25,7 +17,7 @@ START_IMG = """
     "https://telegra.ph/file/cce9038f6a9b88eb409b5.jpg",
     "https://telegra.ph/file/262c86393730a609cdade.jpg",
     "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg",
-"""
+]
 
 HEY_IMG = "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg"
 
@@ -39,6 +31,10 @@ ALIVE_ANIMATION = [
     "https://telegra.ph//file/8d4d7d06efebe2f8becd0.mp4",
     "https://telegra.ph//file/6efdd8e28756bc2f6e53e.mp4",
 ]
+
+FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
+
+PM_START_TEXT = "✨ *ɪ ᴀᴍ ᴍɪᴋᴏ, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
 
 START_BTN = [
     [
