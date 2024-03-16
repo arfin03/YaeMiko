@@ -9,6 +9,7 @@ from telegram import InlineKeyboardButton
 from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
+FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
 
 PM_START_TEXT = """
 Hey hi {}, I'm {}!
