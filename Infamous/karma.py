@@ -19,7 +19,7 @@ START_IMG = [
     "https://telegra.ph/file/4734d09fa1937300e8aba.jpg",
 ]
 
-HEY_IMG = "https://telegra.ph/file/255a4d983cbcb6f2714c3.jpg"
+HEY_IMG = "https://telegra.ph/file/02e11123253d1882d9ed2.jpg"
 
 ALIVE_ANIMATION = [
     "https://telegra.ph/file/255a4d983cbcb6f2714c3.jpg",
