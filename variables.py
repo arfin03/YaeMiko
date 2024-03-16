@@ -10,8 +10,8 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = "23182647"  # Get this value from my.telegram.org/apps
-    API_HASH = "9fc6192389cf1fdfd10e87bea7de96c5"
+    API_ID = "27389764"  # Get this value from my.telegram.org/apps
+    API_HASH = "75ecb2e1879c9e805c5aa934a5ff4b5f"
 
     # Database configuration (PostgreSQL)
     DATABASE_URL = "postgres://fodrfyzd:fozO611cVktRfkPLfRb1S52saC6AsKAe@castor.db.elephantsql.com/fodrfyzd"
