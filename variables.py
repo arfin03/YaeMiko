@@ -21,7 +21,7 @@ class Config(object):
     MESSAGE_DUMP = "-1001991974760"
 
     # MongoDB configuration
-    MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI = "mongodb+srv://Nonalcoholic:8eVPSTcJa2c3FkH@cluster0.bprf1b2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
     # Support chat and support ID
     SUPPORT_CHAT = "fubuki_supports"
