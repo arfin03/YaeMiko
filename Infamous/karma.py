@@ -10,15 +10,17 @@ from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
-    "https://telegra.ph/file/255a4d983cbcb6f2714c3.jpg",   
-    "https://telegra.ph/file/e1e68e5a1c1899997ce7f.jpg",
-    "https://telegra.ph/file/4734d09fa1937300e8aba.jpg",
-    "https://telegra.ph/file/255a4d983cbcb6f2714c3.jpg",
-    "https://telegra.ph/file/e1e68e5a1c1899997ce7f.jpg",
-    "https://telegra.ph/file/4734d09fa1937300e8aba.jpg",
+    "https://telegra.ph/file/ca4f2e351a1725836bacc.jpg",   
+    "https://telegra.ph/file/03b143d9cff2b983b9aa3.jpg",
+    "https://telegra.ph/file/433a3b03efdf883ca626a.jpg",
+    "https://telegra.ph/file/aea4050cd9a14c4600437.jpg",
+    "https://telegra.ph/file/6efe8e36b932aef609162.jpg",
+    "https://telegra.ph/file/33e4abe360a62fe617cad.jpg",
+    "https://telegra.ph/file/8f93af0434fceb5b9f1df.jpg",
+    "https://telegra.ph/file/14ad1d194740e3cf0ff32.jpg",
 ]
 
-HEY_IMG = "https://telegra.ph/file/02e11123253d1882d9ed2.jpg"
+HEY_IMG = "https://telegra.ph/file/433a3b03efdf883ca626a.jpg"
 
 ALIVE_ANIMATION = [
     "https://telegra.ph/file/255a4d983cbcb6f2714c3.jpg",
