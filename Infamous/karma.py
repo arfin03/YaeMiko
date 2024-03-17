@@ -10,9 +10,8 @@ from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
-    "https://telegra.ph/file/255a4d983cbcb6f2714c3.jpg",
+    "https://telegra.ph/file/255a4d983cbcb6f2714c3.jpg",   
     "https://telegra.ph/file/e1e68e5a1c1899997ce7f.jpg",
-    "https://telegra.ph/file/ed4385c26dcf6de70543f.jpg",
     "https://telegra.ph/file/4734d09fa1937300e8aba.jpg",
     "https://telegra.ph/file/255a4d983cbcb6f2714c3.jpg",
     "https://telegra.ph/file/e1e68e5a1c1899997ce7f.jpg",
