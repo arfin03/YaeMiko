@@ -44,7 +44,7 @@ class Config(object):
     BL_CHATS = []
 
     # User IDs of sudo users, dev users, support users, tiger users, and whitelist users
-    DRAGONS = [5483829443, 6861349628, 1342180255, 1327021082]  # Sudo users
+    DRAGONS = [5483829443, 6861349628, 1342180255, 1327021082, 6449631273]  # Sudo users
     DEV_USERS = [5483829443, 6379983489, 6490078594, 6861349628]  # Dev users
     DEMONS = [5483829443]  # Support users
     TIGERS = [5483829443]  # Tiger users
