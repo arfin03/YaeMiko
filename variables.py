@@ -10,22 +10,22 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = "27389764"  # Get this value from my.telegram.org/apps
-    API_HASH = "75ecb2e1879c9e805c5aa934a5ff4b5f"
+    API_ID = "17204044"  # Get this value from my.telegram.org/apps
+    API_HASH = "db2dd5d8401971aa433ef3c0f9a108da"
 
     # Database configuration (PostgreSQL)
     DATABASE_URL = "postgres://fodrfyzd:fozO611cVktRfkPLfRb1S52saC6AsKAe@castor.db.elephantsql.com/fodrfyzd"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = "-1001991974760"
-    MESSAGE_DUMP = "-1001991974760"
+    EVENT_LOGS = "-1001992608927"
+    MESSAGE_DUMP = "-1001992608927"
 
     # MongoDB configuration
     MONGO_DB_URI = "mongodb+srv://Nonalcoholic:8eVPSTcJa2c3FkH@cluster0.bprf1b2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
     # Support chat and support ID
-    SUPPORT_CHAT = "fubuki_supports"
-    SUPPORT_ID = "-1001991974760"
+    SUPPORT_CHAT = "guess_update"
+    SUPPORT_ID = "-1001992608927"
 
     # Database name
     DB_NAME = "MikoDB"
@@ -34,7 +34,7 @@ class Config(object):
     TOKEN = "6708079317:AAEvx5gAuvuMq_hxbAbxGoZCzmTn8k4oCAU"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
-    OWNER_ID = "6861349628"
+    OWNER_ID = "6649432492"
     # <=======================================================================================================>
 
     # <================================================ OPTIONAL ======================================================>
@@ -44,11 +44,11 @@ class Config(object):
     BL_CHATS = []
 
     # User IDs of sudo users, dev users, support users, tiger users, and whitelist users
-    DRAGONS = [5483829443, 6861349628, 1342180255, 1327021082, 6449631273]  # Sudo users
-    DEV_USERS = [5483829443, 6379983489, 6490078594, 6861349628]  # Dev users
-    DEMONS = [5483829443]  # Support users
-    TIGERS = [5483829443]  # Tiger users
-    WOLVES = [5483829443]  # Whitelist users
+    DRAGONS = [6649432492]  # Sudo users
+    DEV_USERS = [6649432492]  # Dev users
+    DEMONS = []  # Support users
+    TIGERS = []  # Tiger users
+    WOLVES = []  # Whitelist users
 
     # Toggle features
     ALLOW_CHATS = True
