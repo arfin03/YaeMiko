@@ -360,3 +360,11 @@ def makepack_internal(
         )
     else:
         msg.reply_text("Failed to create sticker pack. Possibly due to blek mejik.")
+
+
+__mod_name__ = "STICKERS"
+
+__help__ = """   
+»  /kang : Create sticker."""
+
+function(CommandHandler("kang", kang, block=False))
